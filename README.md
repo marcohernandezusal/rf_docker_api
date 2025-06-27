@@ -27,13 +27,13 @@ ML_REST_API/
 
 ## Quick Start
 
-### Option 1: Local Development
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/marcohernandezusal/rf_docker_api
    cd ML_REST_API
    ```
+### Option 1: Local Development
 
 2. **Create virtual environment:**
    ```bash
